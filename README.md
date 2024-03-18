@@ -20,8 +20,10 @@ This xlsx file can then be imported in the the **route** tab of an *in tasking* 
 Install this extension by drag and dropping the file `survolff-1.X.Y.Z.xpi` on any window of your Firefox web browser. Accept the authorisation for `public-api.foreflight.com` and `cdn.prod.foreflight.com` \
 You can as well go to **about:addons** and click on the setting icon **install a module from a file**
 #### Chrome
+https://chromewebstore.google.com/detail/survolff/oidfndidagegbcaebiiklpeodejnafpi?hl=fr&authuser=0
 Download the extension from shared link and start using it.
 #### Edge
+https://microsoftedge.microsoft.com/addons/detail/survolff/fnloaojgoagnohgdicpefjibpphlflkl
 Download the extension from shared link and start using it. \
 *The edge version of the extension is similar to the Chrome one.*
 ### First usage
